@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace хуета
+namespace 18.02.2022
 {
     static class Program
     {
