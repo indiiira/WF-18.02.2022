@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
 
-namespace хуета
+namespace 18.02.2022
 {
     public partial class Form2 : Form
     {
