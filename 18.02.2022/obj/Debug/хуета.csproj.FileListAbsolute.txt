@@ -1,0 +1,11 @@
+C:\Users\Индира\source\repos\фигня\хуета\bin\Debug\хуета.exe.config
+C:\Users\Индира\source\repos\фигня\хуета\bin\Debug\хуета.exe
+C:\Users\Индира\source\repos\фигня\хуета\bin\Debug\хуета.pdb
+C:\Users\Индира\source\repos\фигня\хуета\obj\Debug\хуета.csproj.AssemblyReference.cache
+C:\Users\Индира\source\repos\фигня\хуета\obj\Debug\хуета.Properties.Resources.resources
+C:\Users\Индира\source\repos\фигня\хуета\obj\Debug\хуета.csproj.GenerateResource.cache
+C:\Users\Индира\source\repos\фигня\хуета\obj\Debug\хуета.csproj.CoreCompileInputs.cache
+C:\Users\Индира\source\repos\фигня\хуета\obj\Debug\хуета.exe
+C:\Users\Индира\source\repos\фигня\хуета\obj\Debug\хуета.pdb
+C:\Users\Индира\source\repos\фигня\хуета\obj\Debug\хуета.Form2.resources
+C:\Users\Индира\source\repos\фигня\хуета\obj\Debug\хуета.Form3.resources
