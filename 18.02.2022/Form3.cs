@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace хуета
+namespace 18.02.2022
 {
     public partial class Form3 : Form
     {
