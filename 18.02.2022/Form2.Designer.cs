@@ -1,5 +1,5 @@
 ﻿
-namespace хуета
+namespace 18.02.2022
 {
     partial class Form2
     {
